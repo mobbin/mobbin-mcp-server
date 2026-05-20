@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mobbin/mobbin",
+  "description": "Search real-world UI & UX design references for mobile apps, web apps, and websites with Mobbin.",
+  "title": "Mobbin",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mobbin.com/mcp"
+    }
+  ]
+}
