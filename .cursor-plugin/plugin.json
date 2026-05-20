@@ -1,0 +1,12 @@
+{
+  "name": "mobbin",
+  "displayName": "Mobbin",
+  "version": "1.0.0",
+  "description": "Search real-world UI & UX design references for mobile apps, web apps, and websites with Mobbin.",
+  "author": {
+    "name": "Mobbin",
+    "email": "support@mobbin.com"
+  },
+  "license": "MIT",
+  "keywords": ["cursor", "plugin", "mobbin", "design", "ui", "ux", "mcp"]
+}
